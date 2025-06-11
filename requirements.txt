@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+ultralytics==8.0.20
+gtts==2.2.3
