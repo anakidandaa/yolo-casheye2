@@ -1,4 +1,4 @@
 fastapi
 uvicorn
-ultralytics==8.1.79
+ultralytics==8.0.20
 gtts==2.2.3
